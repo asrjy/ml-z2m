@@ -1,2 +1,8 @@
 #Ignore the resources folder
 resources
+
+#Ignore the fixes file
+./fixes.txt
+
+#Ignore the conda cheatsheet
+./conda-cheatsheet.pdf
